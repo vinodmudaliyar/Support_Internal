@@ -1,0 +1,5 @@
+*.atmx
+*.mbot
+.git_old*/
+Bot Store/
+System/
